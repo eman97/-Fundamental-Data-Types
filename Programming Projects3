@@ -20,7 +20,7 @@ user for a year and prints out the month and day of Easter Sunday.
 
 import java.util.Scanner;
 
-public class P4_4 {
+public class P4_2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
