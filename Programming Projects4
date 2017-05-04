@@ -16,7 +16,7 @@ assignment.
 
 import java.util.Scanner;
 
-public class e4_10 {
+public class p4.1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
